@@ -5,7 +5,7 @@
 # 프로필
 항목  | 내용
 :-: | -
-이름 | 김용대
+이 름 | 김용대
 이메일 | scratchback91@gmail.com
 블로그 | http://yongdaekim.blogspot.kr
 깃 헙 |https://github.com/Yongdae-Kim
@@ -14,25 +14,26 @@
 
 # 경험
 ## 연구원
-
 * 연구원 (2013. 03 ~ 2015. 06)
 * 소프트웨어개발 연구실, 제주대학교, 한국
 * 연구보조 및 소프트웨어 개발
 
 ## 인턴
-### 다음카카오 개발인턴
+### 다음카카오 개발 인턴
 * 개발 인턴 (2015. 07 ~ 2015. 10)
 * 다음카카오 콘텐츠 팀, [웹툰 파트](http://webtoon.daum.net/ "웹툰"), [다음카카오](http://www.daum.net/ "다음카카오"), 한국
 * 웹툰 운영 통계 툴 개발 보조
 
-### (주)우아한형제들 개발인턴
+### (주)우아한형제들 개발 인턴
 * 개발 인턴 (2015. 12 ~ 2016. 2)
 * [배민개발학당8기](http://www.woowahan.com/배민개발학당-2/ "배민개발학당8기"), [(주)우아한형제들](http://www.woowahan.com/ "(주)우아한형제들"), 한국
 * 인턴 교육 및 현업 업무 보조
 
-## 경력
-### (주)우아한형제들 서버개발자
-* IT 인프라팀 서버개발자 (2016. 4 ~ )
+---
+
+# 경력
+### (주)우아한형제들 개발자
+* IT 인프라팀 개발자 (2016. 4 ~ )
 * IT 인프라팀, [(주)우아한형제들](http://www.woowahan.com/ "(주)우아한형제들"), 한국
 * 업무 자동화 프로세스 및 사내 인프라 서비스 개발
 
@@ -45,14 +46,14 @@ AWS, DevOps, Serverless, Monitoring, Alarm, Deploy, Spring, JAVA 등등
 
 ---
 
-# 기술
+# 사용기술
 ## 언어
 ```
-JAVA, Android, Javascript, Google Apps Script, Ruby
+JAVA, Groovy, Android, Javascript, Node.js, Google Apps Script, Ruby
 ``` 
 ## DBMS
 ```
-MySQL, Oracle
+MySQL, Oracle, MS SQL
 ``` 
 
 ---

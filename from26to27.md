@@ -3,12 +3,20 @@
 ---
 
 # 프로필
-항목  | 내용
+항목 | 내용
 :-: | -
 이 름 | 김용대
 이메일 | scratchback91@gmail.com
 블로그 | http://yongdaekim.blogspot.kr
 깃 헙 |https://github.com/Yongdae-Kim
+
+---
+
+# 포트폴리오
+기간 | 링크
+:-: | -
+26 ~ 27 | https://github.com/Yongdae-Kim/portfolio/blob/master/from26to27.md
+20 ~ 26 | yongdae-kim.github.io/portfolio/from20to26/
 
 ---
 
@@ -52,14 +60,36 @@ MySQL, Oracle
 
 # 프로젝트
 ## 업무 자동화 프로세스 개발
+> 테스트
+
+* 설 명:
+* 기 간:
+* 기 술:
 
 ## 사내 암복호화 모듈 개발
+> AWS KMS(Key Management Service) 를 이용해 암호화/복호화하는 API 및 라이브러리를 개발하였음
+
+* 설 명:
+* 기 간:
+* 기 술:
 
 ## 사내 로그인 모듈 개발
+> Google OAuth2 SSO(Single Sign-On) 를 이용해 회사내 로그인 라이브러리를 개발
+
+* 설 명:
+* 기 간:
+* 기 술:
 
 ## SMS / LMS / VMS 모듈 개발 및 관리
+> SMS / LMS / VMS 발송 또는 조회 할 수 있는 API 개발 및 관리
+
+* 설 명:
+* 기 간:
+* 기 술:
 
 ## 알람 서비스 개발
+> 특정 채널로 장애상황 또는 긴급 알람을 전송할 수 있는 서비스를 개발
+
 ### 라인봇 개발
 ### 알람 API 개발
 

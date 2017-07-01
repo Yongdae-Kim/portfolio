@@ -13,10 +13,8 @@
 ---
 
 # 포트폴리오
-기간 | 링크
-:-: | -
-26 ~ 27 | https://github.com/Yongdae-Kim/portfolio/blob/master/from26to27.md
-20 ~ 26 | yongdae-kim.github.io/portfolio/from20to26/
+* [26 부터 27 까지의 이야기](https://github.com/Yongdae-Kim/portfolio/blob/master/from26to27.md "26부터 27까지의 이야기")
+* [20 부터 26 까지의 이야기](http://yongdae-kim.github.io/portfolio/from20to26 "20부터 26까지의 이야기")
 
 ---
 
@@ -26,14 +24,14 @@
 :-: | :-: | :-: | - | -
 소프트웨어개발 연구실 | [제주대학교](http://www.jejunu.ac.kr/main "제주대학교"), 한국 | 연구원  | 2013. 03 ~ 2015. 06 | 연구보조 및 소프트웨어 개발
 다음카카오 콘텐츠 팀, [웹툰 파트](http://webtoon.daum.net/ "웹툰") | [다음카카오](http://www.daum.net/ "다음카카오"), 한국 | 개발 인턴 | 2015. 07 ~ 2015. 10 | 웹툰 운영 통계 툴 개발 보조
-[배민개발학당8기](http://www.woowahan.com/배민개발학당-2/ "배민개발학당8기") | [(주)우아한형제들](http://www.woowahan.com/ "(주)우아한형제들"), 한국 | 개발 인턴 | 2015. 12 ~ 2016. 2 | 인턴 교육 이수 및 현업 업무 보조
+[배민개발학당8기](http://www.woowahan.com/배민개발학당-2/ "배민개발학당8기") | [(주)우아한형제들](http://www.woowahan.com/ "(주)우아한형제들"), 한국 | 개발 인턴 | 2015. 12 ~ 2016. 02 | 인턴 교육 이수 및 현업 업무 보조
 
 ---
 
 # 경력
 
 ### (주)우아한형제들 개발자
-* 서버개발자 (2016. 4 ~ )
+* 서버개발자 (2016. 04 ~ )
 * CTO 실 / IT인프라팀, [(주)우아한형제들](http://www.woowahan.com/ "(주)우아한형제들"), 한국
 * 업무 자동화 프로세스 및 사내 인프라 개발
 

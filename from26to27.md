@@ -22,11 +22,11 @@
 
 # 경험
 
-소속 | 위치 | 직위 | 직무
-:-: | :-: | - | -
-소프트웨어개발 연구실 | [제주대학교](http://www.jejunu.ac.kr/main "제주대학교"), 한국 | 연구원 (2013. 03 ~ 2015. 06) | 연구보조 및 소프트웨어 개발
-다음카카오 콘텐츠 팀, [웹툰 파트](http://webtoon.daum.net/ "웹툰") | [다음카카오](http://www.daum.net/ "다음카카오"), 한국 | 개발 인턴 (2015. 07 ~ 2015. 10) | 웹툰 운영 통계 툴 개발 보조
-[배민개발학당8기](http://www.woowahan.com/배민개발학당-2/ "배민개발학당8기") | [(주)우아한형제들](http://www.woowahan.com/ "(주)우아한형제들"), 한국 | 개발 인턴 (2015. 12 ~ 2016. 2) |  인턴 교육 이수 및 현업 업무 보조
+소속 | 위치 | 직위 | 기간 | 직무
+:-: | :-: | :-: | - | -
+소프트웨어개발 연구실 | [제주대학교](http://www.jejunu.ac.kr/main "제주대학교"), 한국 | 연구원  | 2013. 03 ~ 2015. 06 | 연구보조 및 소프트웨어 개발
+다음카카오 콘텐츠 팀, [웹툰 파트](http://webtoon.daum.net/ "웹툰") | [다음카카오](http://www.daum.net/ "다음카카오"), 한국 | 개발 인턴 | 2015. 07 ~ 2015. 10 | 웹툰 운영 통계 툴 개발 보조
+[배민개발학당8기](http://www.woowahan.com/배민개발학당-2/ "배민개발학당8기") | [(주)우아한형제들](http://www.woowahan.com/ "(주)우아한형제들"), 한국 | 개발 인턴 | 2015. 12 ~ 2016. 2 | 인턴 교육 이수 및 현업 업무 보조
 
 ---
 
@@ -55,13 +55,17 @@ JAVA, Groovy, Android, Javascript, Node.js, Google Apps Script
 ```
 MySQL, MS-SQL, Oracle
 ``` 
+## 도구
+```
+Intelij, Github, Jenkins, NewRelic, Logentries, Gatling, Grafana 등
+``` 
 ---
 
 # 프로젝트
 ## 업무 자동화 시스템 개발
 > 사내에서 업무 자동화가 필요한 시스템을 개발하였음 
 
-* 설 명: 사내에서 Google Sheet 로 관리하는 작업이나, 정기적인 리포팅 메일 등 자동화가 필요한 시스템을 개발하였음
+* 설 명: 사내에서 Google Spreadsheet 또는 MS Excel 로 관리하거나, 정기적인 리포팅 메일 등 자동화가 필요한 작업들을 자동화해주는 시스템을 개발하였음
 * 기 술: Google Apps Script, Python 등
 * 인프라: Google Cloud, AWS EC2 등
 
@@ -69,7 +73,7 @@ MySQL, MS-SQL, Oracle
 > AWS KMS(Key Management Service) 를 이용해 암/복호화하는 API 및 라이브러리 개발하였음
 
 * 설 명: AWS KMS 를 이용해서 서비스 내에서 키 관리를 하지 않고, 암/복호화할 수 있는 API 개발 및 유지보수 하였음
-* 기 술: JAVA, SpringBoot, Python, Gatling 등
+* 기 술: JAVA, SpringBoot, Python 등
 * 인프라: AWS KMS, AWS API Gateway, AWS Lambda, AWS EC2 등
 
 ## 사내 로그인 모듈 개발
@@ -82,7 +86,7 @@ MySQL, MS-SQL, Oracle
 ## SMS / LMS / VMS 모듈 개발 및 관리
 > SMS / LMS / VMS 발송 또는 조회할 수 있는 API 개발 및 관리
 
-* 설 명: SMS / LMS / VMS API 개발 및 유지보수하고, 발송 로그 및 에이전트 서버를 관리하였음
+* 설 명: SMS / LMS / VMS API 개발 및 유지보수하고, 발송 로그 및 Agent 서버를 관리하였음
 * 기 술: PHP, Node.js 등
 * 인프라: AWS API Gateway, AWS Lambda, AWS EC2 등
 

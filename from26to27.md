@@ -1,14 +1,14 @@
-# 김 용 대
+# 김 용 대, Yongdae Kim
 
 ---
 
 # 프로필
 항목 | 내용
 :-: | -
-이 름 | 김용대
+이 름 | 김용대, Yongdae Kim
 이메일 | scratchback91@gmail.com
 블로그 | http://yongdaekim.blogspot.kr
-깃 헙 |https://github.com/Yongdae-Kim
+깃 헙 | https://github.com/Yongdae-Kim
 
 ---
 

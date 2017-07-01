@@ -13,7 +13,7 @@
 ---
 
 # 포트폴리오
-* [26 부터 27 까지의 이야기 (현재 페이지와 동일함)](https://github.com/Yongdae-Kim/portfolio/blob/master/from26to27.md "26부터 27까지의 이야기")
+* [26 부터 27 까지의 이야기](https://github.com/Yongdae-Kim/portfolio/blob/master/from26to27.md "26부터 27까지의 이야기") (현재 페이지와 동일함)
 * [20 부터 26 까지의 이야기](http://yongdae-kim.github.io/portfolio/from20to26 "20부터 26까지의 이야기")
 
 ---

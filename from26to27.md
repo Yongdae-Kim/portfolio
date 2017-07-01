@@ -1,4 +1,4 @@
-# 김용대
+# 김 용 대
 
 ---
 
@@ -35,7 +35,7 @@
 ### (주)우아한형제들 개발자
 * 서버개발자 (2016. 4 ~ )
 * CTO 실 / IT인프라팀, [(주)우아한형제들](http://www.woowahan.com/ "(주)우아한형제들"), 한국
-* 업무 자동화 프로세스 및 사내 인프라 서비스 개발
+* 업무 자동화 프로세스 및 사내 인프라 개발
 
 ---
 
@@ -53,7 +53,7 @@ JAVA, Groovy, Android, Javascript, Node.js, Google Apps Script
 ``` 
 ## DBMS
 ```
-MySQL, Oracle
+MySQL, MS-SQL, Oracle
 ``` 
 ---
 
@@ -63,12 +63,12 @@ MySQL, Oracle
 
 * 설 명: 사내에서 Google Sheet 로 관리하는 작업이나, 정기적인 리포팅 메일 등 자동화가 필요한 시스템을 개발하였음
 * 기 술: Google Apps Script, Python 등
-* 인프라: Google Cloud, AWS EC2
+* 인프라: Google Cloud, AWS EC2 등
 
 ## 사내 암복호화 모듈 개발
-> AWS KMS(Key Management Service) 를 이용해 암/복호화 하는 API 및 라이브러리 개발하였음
+> AWS KMS(Key Management Service) 를 이용해 암/복호화하는 API 및 라이브러리 개발하였음
 
-* 설 명: AWS KMS 를 이용해서 서비스 내에서 키 관리를 하지 않고, 암복호화 할 수 있는 API 개발 및 유지보수 하였음
+* 설 명: AWS KMS 를 이용해서 서비스 내에서 키 관리를 하지 않고, 암/복호화할 수 있는 API 개발 및 유지보수 하였음
 * 기 술: JAVA, SpringBoot, Python, Gatling 등
 * 인프라: AWS KMS, AWS API Gateway, AWS Lambda, AWS EC2 등
 
@@ -80,14 +80,14 @@ MySQL, Oracle
 * 인프라: Google Cloud 등
 
 ## SMS / LMS / VMS 모듈 개발 및 관리
-> SMS / LMS / VMS 발송 또는 조회 할 수 있는 API 개발 및 관리
+> SMS / LMS / VMS 발송 또는 조회할 수 있는 API 개발 및 관리
 
-* 설 명: SMS / LMS / VMS API 개발 및 유지보수 하고, 발송 로그 및 에이전트 서버를 관리하였음
+* 설 명: SMS / LMS / VMS API 개발 및 유지보수하고, 발송 로그 및 에이전트 서버를 관리하였음
 * 기 술: PHP, Node.js 등
 * 인프라: AWS API Gateway, AWS Lambda, AWS EC2 등
 
 ## 알람 시스템 개발
-> 특정 채널로 장애상황 또는 긴급 알람을 전송할 수 있는 시스템을 개발하였음
+> 특정 채널로 장애 상황 또는 긴급 알람을 전송할 수 있는 시스템을 개발하였음
 
 ### 1. 라인봇을 이용한 알람 시스템 개발
 * 설 명: 라인봇을 이용해 장애 또는 긴급상황 시, 담당자들에게 VMS 를 발송하는 알람 시스템을 개발하였음 
@@ -95,7 +95,7 @@ MySQL, Oracle
 * 인프라: AWS API Gateway, AWS Lambda, Google Cloud 등
 
 ### 2. 알람 API 개발
-* 설 명: 서비스 장애 발생시, 서비스별 알림 채널을 구성하고, 해당 채널로 장애 알람을 보낼 수 있는 시스템을 개발하였음 
+* 설 명: 서비스 장애 발생 시, 서비스별 알림 채널(Slack, SMS/LMS/VMS, Line 등)을 구성하고, 해당 채널로 장애 알람을 보낼 수 있는 시스템을 개발하였음 
 * 기 술: JAVA, Spring Boot, Google Apps Script 등
 * 인프라: AWS EC2, Google Cloud 등
 
